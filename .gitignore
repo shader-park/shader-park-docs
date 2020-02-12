@@ -21,4 +21,5 @@ node_modules/
 # dotenv environment variables file
 .env
 # vuepress build output
+docs/.vuepress/dist
 .vuepress/dist

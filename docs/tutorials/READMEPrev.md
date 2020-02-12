@@ -28,7 +28,7 @@ If you're new to GLSL check out our guide [here](#glsl)
 
 ## Creating your first sculpture
 
-<iframe width="100%" height="450px" src="http://shader-park.appspot.com/sculpture/-LM-Nx6cvMmlbdKKiB64?example=true&embed=true" frameborder="0"></iframe>
+<iframe width="100%" height="450px" src="https://shader-park.appspot.com/sculpture/-LM-Nx6cvMmlbdKKiB64?example=true&embed=true" frameborder="0"></iframe>
 
 In **scene** we define the shape of the object that we want to create.
 One thing to note is that the code written in scene is run on every pixel.
