@@ -184,7 +184,7 @@ module.exports = {
         }
       ]
     },
-    repo: 'Computer-Graphics-And-Pretty-Pictures/SculpturePark',
+    repo: 'bnanner/Shader-Park-Docs',
     // Customising the header label
     // Defaults to "GitHub"/"GitLab"/"Bitbucket" depending on `themeConfig.repo`
     // repoLabel: 'Edit this page!',
@@ -196,7 +196,7 @@ module.exports = {
     // if your docs are not at the root of the repo:
     docsDir: 'docs',
     // if your docs are in a specific branch (defaults to 'master'):
-    docsBranch: 'dev',
+    docsBranch: 'master',
     // defaults to false, set to true to enable
     editLinks: true,
     // custom text for edit link. Defaults to "Edit this page"
