@@ -49,6 +49,7 @@ module.exports = {
               children: [
                 '/references-js/operations/shell',
                 '/references-js/operations/expand',
+                '/references-js/operations/setSDF',
               ]
             },
           ]
@@ -89,7 +90,7 @@ module.exports = {
             },
             {
               title: 'Interactive',
-              children: []
+              children: ['/references-js/input/input',]
             },
 
           ]

@@ -12,7 +12,7 @@ Shader Park provides a set of built in functions to help you create your sculptu
 [union](/references-js/operations/union.html), [difference](/references-js/operations/difference.html), [blend](/references-js/operations/blend.html), [intersect](/references-js/operations/intersect.html), [mixGeo](/references-js/operations/mixGeo.html)
 
 #### Modifiers
-[expand](/references-js/operations/expand.html), [shell](/references-js/operations/shell.html), applySDF
+[expand](/references-js/operations/expand.html), [shell](/references-js/operations/shell.html), [setSDF](/references-js/operations/setSDF.html)
 
 ------
 
@@ -60,7 +60,7 @@ normal
 
 #### Interactive
 
-input
+[input](/references-js/input/input.html), 
 
 mouse, mouseIntersection
 
