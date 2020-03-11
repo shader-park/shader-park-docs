@@ -19,4 +19,4 @@ setSDF(distance);
 ```
 
 ### Parameters
-**distance** Float: The distance from the current position to the surface.
+**distance** Float: The distance from the current position to the geometry's surface.
