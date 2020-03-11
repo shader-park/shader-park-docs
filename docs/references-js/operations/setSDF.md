@@ -11,12 +11,12 @@
 <iframe width="100%" height="450px" src="https://shaderpark.netlify.com/sculpture/-M21QsaGAGKf354Yh4yZ?example=true&embed=true" frameborder="0"></iframe>
 
 ### Description
-Applies the provided distance field.
+Directly sets the distance field value.
 
 ### Syntax
 ```js
-setSDF(distanceField);
+setSDF(distance);
 ```
 
 ### Parameters
-**distanceField** Function: a function where any negative value is inside the shape, 0 intersects the shape and positive values are outside the shape.
+**distance** Float: The distance from the current position to the surface.
