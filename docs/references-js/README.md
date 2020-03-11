@@ -80,9 +80,7 @@ toSpherical, fromSpherical
 ------
 
 ### Algorithms
-
-noise, fractalNoise
-
+[noise](/references-js/algorithms/noise.html), [fractalNoise](/references-js/algorithms/fractalNoise.html)
 sphericalDistribution
 
 ------

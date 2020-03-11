@@ -101,9 +101,9 @@ module.exports = {
           children: []
         },
         {
-          title: 'Noise',
+          title: 'Algorithms',
           collapsable: true,
-          children: []
+          children: ['/references-js/algorithms/noise', '/references-js/algorithms/fractalNoise']
         },
         {
           title: 'Constants',
