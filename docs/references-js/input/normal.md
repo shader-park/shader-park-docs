@@ -4,7 +4,7 @@
 <iframe width="100%" height="450px" src="https://shaderpark.netlify.com/sculpture/-M26t9QYoo8dj087IQ40?example=true&embed=true" frameborder="0"></iframe>
 
 ### Description
-The normal vector to your object.  
+The normal vector of the geometry. (The vector which points directly out the surface)
 
 Note: Only has an effect on color, cannot be used to influence geometry.
 
