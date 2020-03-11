@@ -7,7 +7,7 @@
 ### Description
 Creates an input slider defaulting to the provided starting value that ranges from the given minimum and maximum values. 
 
-Behind the scenes a uniform is created for your input, which allows the slider to efficiently update new values.
+Internally a uniform is created for your input slider, which allows the value to be updated without re-compiling the shader.
 
 ### Syntax
 ```js
