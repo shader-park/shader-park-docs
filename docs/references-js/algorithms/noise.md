@@ -18,4 +18,4 @@ noise(position)
 ```
 
 ### Parameters
-**position** vec3: the position to sample the noise function at
+**position** vec3: the position to sample noise
