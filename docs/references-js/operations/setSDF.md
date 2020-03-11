@@ -19,4 +19,4 @@ setSDF(distanceField);
 ```
 
 ### Parameters
-**distanceField** function: a Signed Distance Field function where any negative value is inside the shape, 0 intersects the shape and positive values are outside the shape.
+**distanceField** Function: a function where any negative value is inside the shape, 0 intersects the shape and positive values are outside the shape.
