@@ -86,7 +86,7 @@ module.exports = {
           children: [
             {
               title: 'Space & Time',
-              children: []
+              children: ['/references-js/input/normal']
             },
             {
               title: 'Interactive',

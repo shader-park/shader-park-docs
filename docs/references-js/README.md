@@ -55,7 +55,7 @@ getRayDirection,
 
 time,
 
-normal
+[normal](/references-js/input/normal.html)
 
 
 #### Interactive
@@ -80,7 +80,7 @@ toSpherical, fromSpherical
 ------
 
 ### Algorithms
-[noise](/references-js/algorithms/noise.html), [fractalNoise](/references-js/algorithms/fractalNoise.html)
+[noise](/references-js/algorithms/noise.html), [fractalNoise](/references-js/algorithms/fractalNoise.html), 
 sphericalDistribution
 
 ------
@@ -93,9 +93,6 @@ PI, TWO_PI, TAU
 
 ### Global Settings
 
-lightDirection
-noLighting
-setGeometryQuality
-setStepSize
+lightDirection, noLighting, setGeometryQuality, setStepSize
 
 
