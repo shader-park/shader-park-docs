@@ -19,7 +19,7 @@ input();
 ```
 
 ### Parameters
-**startValue** Float: the initial value of.
+**startValue** Float: the initial value. Defaults to 0.
 
 **minValue** Float: the minimum range of the slider input. Defaults to 0.
 
