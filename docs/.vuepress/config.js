@@ -52,6 +52,13 @@ module.exports = {
                 '/references-js/operations/setSDF',
               ]
             },
+            {
+              title: 'Composition',
+              children: [
+                '/references-js/geometries/shape',
+              ]
+            },
+            
           ]
         },
         {

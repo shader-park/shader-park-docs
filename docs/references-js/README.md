@@ -14,6 +14,9 @@ Shader Park provides a set of built in functions to help you create your sculptu
 #### Modifiers
 [expand](/references-js/operations/expand.html), [shell](/references-js/operations/shell.html), [setSDF](/references-js/operations/setSDF.html)
 
+### Composition
+[shape](/references-js/geometries/shape.html)
+
 ------
 
 ### Coordinate Space Modifiers 
