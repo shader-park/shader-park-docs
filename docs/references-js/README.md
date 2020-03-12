@@ -39,12 +39,12 @@ metal,
 
 shine,
 
-[hsv2rgb](/references-js/color/hsv2rgb.html), , rgb2hsv, 
+[hsv2rgb](/references-js/color/hsv2rgb.html) , rgb2hsv, 
 
 occlusion
 
 #### Lighting
-basicLighting, noMaterial, lightDirection
+basicLighting, [noLighting](/references-js/color/noLighting.html), noMaterial, lightDirection, 
 
 ------
 
@@ -87,7 +87,9 @@ toSpherical, fromSpherical
 
 ### Algorithms
 [noise](/references-js/algorithms/noise.html), [fractalNoise](/references-js/algorithms/fractalNoise.html), 
-sphericalDistribution
+
+[sphericalDistribution](/references-js/algorithms/sphericalDistribution.html)
+
 
 ------
 
@@ -99,6 +101,6 @@ PI, TWO_PI, TAU
 
 ### Global Settings
 
-lightDirection, noLighting, setGeometryQuality, setStepSize
+setGeometryQuality, setStepSize
 
 

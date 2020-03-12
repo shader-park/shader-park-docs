@@ -75,6 +75,7 @@ module.exports = {
           children: [
             '/references-js/color/color',
             '/references-js/color/hsv2rgb',
+            '/references-js/color/noLighting',
             {
               title: 'Lighting',
               children: []
@@ -104,7 +105,11 @@ module.exports = {
         {
           title: 'Algorithms',
           collapsable: true,
-          children: ['/references-js/algorithms/noise', '/references-js/algorithms/fractalNoise']
+          children: [
+            '/references-js/algorithms/noise', 
+            '/references-js/algorithms/fractalNoise',
+            '/references-js/algorithms/sphericalDistribution'
+          ]
         },
         {
           title: 'Constants',
