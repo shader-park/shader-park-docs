@@ -14,7 +14,6 @@ Computes 3D simplex noise.
 ### Syntax
 ```js
 noise(position)
-
 ```
 
 ### Parameters

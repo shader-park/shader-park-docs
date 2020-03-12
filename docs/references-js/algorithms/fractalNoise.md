@@ -10,7 +10,6 @@ Computes mutliple octaves of 3D simplex noise.
 ### Syntax
 ```js
 fractalNoise(position)
-
 ```
 
 ### Parameters
