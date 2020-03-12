@@ -74,6 +74,7 @@ module.exports = {
           collapsable: true,
           children: [
             '/references-js/color/color',
+            '/references-js/color/hsv2rgb',
             {
               title: 'Lighting',
               children: []

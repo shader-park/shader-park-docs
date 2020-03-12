@@ -39,7 +39,7 @@ metal,
 
 shine,
 
-hsv2rgb, rgb2hsv, 
+[hsv2rgb](/references-js/color/hsv2rgb.html), , rgb2hsv, 
 
 occlusion
 
