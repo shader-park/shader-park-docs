@@ -23,21 +23,17 @@
 
 
 ### Description
-Shape encapsulates any color, displacement, and space manipulation run inside the function.
-
-Wrapping shape around a function will allow the scope of the operations in a function to work as expected in javascript.
-
-If you are unfamiliar with javascript arrow functions please refer [here](https://www.w3schools.com/js/js_arrow_function.asp).
-
+Creates a new primitive shape. All state changing commands (color, displacement, geometry modes) are encapsulated and will only have an affect within scope of the provided functions. Useful for isolating components with their own distortions and materials. Shapes can be nested for hierarchical modeling.
 
 ### Syntax
 ```js
-shape(func);
+shape(shape_func);
 ```
 
 ### Parameters
-**func** Function: the function you'd like to encapsulate.
+**shape_func** Function: A function which draws a shape.  
 
 
 ### Returns
-Function: the new shape
+Function: An encapsuled version of shape_func which will not modify any drawing state outside of its own scope.  
+Note: Any arguements given to this function will be forwarded as arguments to shape_func
