@@ -23,7 +23,7 @@
 
 
 ### Description
-Creates a new primitive shape. All state changing commands (color, displacement, geometry modes) are encapsulated and will only have an affect within scope of the provided functions. Useful for isolating components with their own distortions and materials. Shapes can be nested for hierarchical modeling.
+Creates a new primitive shape. All state changing commands (color, displacement, geometry modes) are encapsulated and will only have an affect within scope of the provided function. Useful for isolating components with their own distortions and materials. Shapes can be nested for hierarchical modeling.
 
 ### Syntax
 ```js
@@ -36,4 +36,4 @@ shape(shape_func);
 
 ### Returns
 Function: An encapsuled version of shape_func which will not modify any drawing state outside of its own scope.  
-Note: Any arguements given to this function will be forwarded as arguments to shape_func
+Note: Any arguements given to this function will be forwarded as arguments to shape_func.
