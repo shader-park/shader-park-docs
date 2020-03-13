@@ -70,8 +70,8 @@ time,
 #### Interactive
 
 [input](/references-js/input/input.html), 
-
-mouse, mouseIntersection
+[mouse](/references-js/input/mouse.html), 
+mouseIntersection
 
 
 ------

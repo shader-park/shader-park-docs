@@ -99,7 +99,10 @@ module.exports = {
             },
             {
               title: 'Interactive',
-              children: ['/references-js/input/input',]
+              children: [
+                '/references-js/input/input',
+                '/references-js/input/mouse'
+              ]
             },
 
           ]
