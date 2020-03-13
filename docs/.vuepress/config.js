@@ -82,10 +82,11 @@ module.exports = {
           children: [
             '/references-js/color/color',
             '/references-js/color/hsv2rgb',
-            '/references-js/color/noLighting',
+            '/references-js/color/occlusion',
+            
             {
               title: 'Lighting',
-              children: []
+              children: ['/references-js/color/noLighting',]
             }
           ]
         },

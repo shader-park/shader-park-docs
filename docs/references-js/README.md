@@ -44,7 +44,7 @@ shine,
 
 [hsv2rgb](/references-js/color/hsv2rgb.html) , rgb2hsv, 
 
-occlusion
+[occlusion](/references-js/color/occlusion.html)
 
 #### Lighting
 basicLighting, [noLighting](/references-js/color/noLighting.html), noMaterial, lightDirection, 
