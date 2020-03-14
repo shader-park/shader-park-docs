@@ -24,7 +24,7 @@ In the editor, map is called **surfaceDistance** because the shaping functions t
 
 To color your shapes use the **shade** function. The raymarcher evaluates the surfaceDistance and calculates the normal of the the shape and passes the current point and normal to the shade.
 
-Not all of the functions have examples because we have focused our time on documenting the JS library, but please feel free to create any examples and submit a pull request on the [documentation github](https://github.com/bnanner/shader-park-docs) with a link to the example.
+Not all of the glsl functions have documentation, and examples because we have focused our time on documenting the JS library, but please feel free to create any examples and submit a pull request on the [documentation github](https://github.com/bnanner/shader-park-docs) with a link to the example.
 
 
 <!-- <iframe width="100%" height="450px" src="/examples?embed=true" frameborder="0"></iframe> -->
