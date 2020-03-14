@@ -12,10 +12,19 @@ footer: MIT Licensed | Copyright © 2018-present Torin Blankensmith & Peter Whid
 --- -->
 
 ### References
-Shader Park provides a set of built in functions to help you create your sculptures.
-Try out any of the examples on the left.
+Shader Park features a javascript library for creating 3D shaders, however under the hood all of the functionality is implemented in GLSL, which you can access through a hidden editor. 
 
+You can create your own sculptures in GLSL at the following link:
+[https://shaderpark.netlify.com/new/glsl](https://shaderpark.netlify.com/new/glsl)
 
+In sites like [Shader Toy](https://shadertoy.com) you need to write your own raymarcher to render Signed Distance Field (SDF) shapes. This has been done for you already in the GLSL editor. 
+
+Normally in raymarching you define your SDFs inside a function called map, or scene. 
+In the editor, map is called **surfaceDistance** because the shaping functions that you call, or define are creating a function that defines the where the surface of the object is.
+
+To color your shapes use the **shade** function. The raymarcher evaluates the surfaceDistance and calculates the normal of the the shape and passes the current point and normal to the shade.
+
+Not all of the functions have examples because we have focused our time on documenting the JS library, but please feel free to create any examples and submit a pull request on the [documentation github](https://github.com/bnanner/shader-park-docs) with a link to the example.
 
 
 <!-- <iframe width="100%" height="450px" src="/examples?embed=true" frameborder="0"></iframe> -->
