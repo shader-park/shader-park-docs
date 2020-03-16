@@ -12,7 +12,7 @@ footer: MIT Licensed | Copyright © 2018-present Torin Blankensmith & Peter Whid
 --- -->
 
 ### References
-Shader Park features a javascript library for creating 3D shaders, however sometimes you want to work directly with GLSL, which is also supported in Shader Park. 
+Shader Park's unique feature is a javascript library for creating 3D shaders, however sometimes you want to work directly with GLSL, which is also supported. 
 
 You can create GLSL sculptures at the following link:
 [https://shaderpark.netlify.com/new/glsl](https://shaderpark.netlify.com/new/glsl)
