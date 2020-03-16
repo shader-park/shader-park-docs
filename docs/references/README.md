@@ -12,19 +12,19 @@ footer: MIT Licensed | Copyright © 2018-present Torin Blankensmith & Peter Whid
 --- -->
 
 ### References
-Shader Park features a javascript library for creating 3D shaders, however sometimes it is nice to work directly with GLSL, which is also supported in Shader Park. 
+Shader Park features a javascript library for creating 3D shaders, however sometimes you want to work directly with GLSL, which is also supported in Shader Park. 
 
 You can create GLSL sculptures at the following link:
 [https://shaderpark.netlify.com/new/glsl](https://shaderpark.netlify.com/new/glsl)
 
-In sites like [Shader Toy](https://shadertoy.com) you need to write or paste in your own raymarching code to render Signed Distance Field (SDF) shapes. This boilerplate is provided in the Shader Park GLSL editor, although you can still implement your own if you like. 
+In bare bones enviroments like [Shader Toy](https://shadertoy.com) you need to bring your own raymarching code to render Signed Distance Field (SDF) shapes. This boilerplate is provided in the Shader Park GLSL editor, although you can still implement yourself if you like. 
 
 It is a common convention to define composite SDFs in GLSL with the name "map" or "scene". 
 In the Shader Park GLSL editor, the function is named **surfaceDistance** because a SDF computes the distance from a point to a surface.
 
-SDFs are colored in the **shade** function. This is evaluated at the intersection with the surfaceDistance SDF, and the normal is computed numerically using the tetrahedron technique.
+SDFs are colored in the **shade** function. This is evaluated at the intersection with the surfaceDistance SDF, and the normal is computed numerically using the tetrahedron technique. Note: if you'd like to use a custom raymarcher, simply set your surfaceDistance to return 0.0 and implement everything from scratch inside the shade function.
 
-Our focus has been on the javascript library, so the GLSL API is not fully documented or covered in simple examples. However please feel free to contribute any examples or docs and submit a pull request to the [Shader Park documentation github repository](https://github.com/bnanner/shader-park-docs) with a link to the example.
+Our focus has been the javascript library, so the GLSL API is not fully documented or covered by simple examples. However please feel free to contribute by submitting a pull request to the [Shader Park documentation github repository](https://github.com/bnanner/shader-park-docs) with a link to the example.
 
 
 <!-- <iframe width="100%" height="450px" src="/examples?embed=true" frameborder="0"></iframe> -->
