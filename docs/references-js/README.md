@@ -46,7 +46,7 @@ setSpace
 [occlusion](/references-js/color/occlusion.html)
 
 #### Lighting
-basicLighting, [noLighting](/references-js/color/noLighting.html), noMaterial, lightDirection, 
+basicLighting, [noLighting](/references-js/color/noLighting.html), noMaterial, [lightDirection](/references-js/color/lightDirection.html) 
 
 ------
 

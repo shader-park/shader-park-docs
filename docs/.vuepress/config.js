@@ -88,7 +88,10 @@ module.exports = {
             
             {
               title: 'Lighting',
-              children: ['/references-js/color/noLighting',]
+              children: [
+                '/references-js/color/noLighting',
+                '/references-js/color/lightDirection'
+              ]
             }
           ]
         },
