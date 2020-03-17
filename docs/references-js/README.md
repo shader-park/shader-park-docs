@@ -38,7 +38,7 @@ setSpace
 
 [color](/references-js/color/color.html), 
 
-metal,
+[metal](/references-js/color/metal.html), ,
 
 shine,
 

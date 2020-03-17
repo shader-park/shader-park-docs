@@ -81,6 +81,7 @@ module.exports = {
           collapsable: true,
           children: [
             '/references-js/color/color',
+            '/references-js/color/metal',
             '/references-js/color/hsv2rgb',
             '/references-js/color/occlusion',
             
