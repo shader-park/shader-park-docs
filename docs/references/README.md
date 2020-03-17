@@ -17,7 +17,7 @@ Shader Park's unique feature is a javascript library for creating 3D shaders, ho
 You can create GLSL sculptures at the following link:  
 [https://shaderpark.netlify.com/new/glsl](https://shaderpark.netlify.com/new/glsl)
 
-In bare bones enviroments like [ShaderToy](https://shadertoy.com) you need to bring your own raymarching code to render Signed Distance Field (SDF) shapes. This boilerplate is provided in the Shader Park GLSL editor, although you can still implement yourself if you like. 
+In bare bones enviroments like [ShaderToy](https://shadertoy.com) you need to write your own raymarching code to render Signed Distance Field (SDF) shapes. This boilerplate is provided in the Shader Park GLSL editor, although you can still implement yourself if you like. 
 
 It is a common convention to define composite SDFs in GLSL with the name "map" or "scene". 
 In the Shader Park GLSL editor, the function is named **surfaceDistance** because a SDF computes the distance from a point to a surface.
