@@ -61,7 +61,7 @@ getSpherical,
 
 getRayDirection,
 
-time,
+[time](/references-js/input/time.html),
 
 [normal](/references-js/input/normal.html)
 

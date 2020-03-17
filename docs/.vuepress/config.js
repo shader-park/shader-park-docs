@@ -101,7 +101,10 @@ module.exports = {
           children: [
             {
               title: 'Space & Time',
-              children: ['/references-js/input/normal']
+              children: [
+                '/references-js/input/time',
+                '/references-js/input/normal'
+              ]
             },
             {
               title: 'Interactive',
