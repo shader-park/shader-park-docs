@@ -38,9 +38,8 @@ setSpace
 
 [color](/references-js/color/color.html), 
 
-[metal](/references-js/color/metal.html), ,
-
-shine,
+[metal](/references-js/color/metal.html),
+[shine](/references-js/color/shine.html)
 
 [hsv2rgb](/references-js/color/hsv2rgb.html) , rgb2hsv, 
 
@@ -71,7 +70,7 @@ time,
 
 [input](/references-js/input/input.html), 
 [mouse](/references-js/input/mouse.html), 
-mouseIntersection
+[mouseIntersection](/references-js/input/mouseIntersection.html), 
 
 
 ------

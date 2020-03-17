@@ -82,6 +82,7 @@ module.exports = {
           children: [
             '/references-js/color/color',
             '/references-js/color/metal',
+            '/references-js/color/shine',
             '/references-js/color/hsv2rgb',
             '/references-js/color/occlusion',
             
@@ -103,7 +104,8 @@ module.exports = {
               title: 'Interactive',
               children: [
                 '/references-js/input/input',
-                '/references-js/input/mouse'
+                '/references-js/input/mouse',
+                '/references-js/input/mouseIntersection'
               ]
             },
 
