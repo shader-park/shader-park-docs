@@ -78,11 +78,18 @@ getRayDirection,
 ### Math
 
 sin, cos, tan, asin, acos 
+
+
 exp, log, exp2, log2
+
 pow, sqrt, inversesqrt
+
 mod, fract, abs, sign, floor, ceil
-min, max, clamp, mix, smoothstep
+
+min, max, clamp, mix, smoothstep,
+
 length, distance, dot, cross, normalize, reflect, refract
+
 toSpherical, fromSpherical
 
 ------
@@ -103,6 +110,6 @@ PI, TWO_PI, TAU
 
 ### Global Settings
 
-setGeometryQuality, setStepSize
+[setGeometryQuality](/references-js/global-settings/setGeometryQuality.html), [setStepSize](/references-js/global-settings/setStepSize.html)
 
 

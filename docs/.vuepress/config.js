@@ -135,7 +135,17 @@ module.exports = {
           title: 'Constants',
           collapsable: true,
           children: []
+        },
+        {
+          title: 'Global Settings',
+          collapsable: true,
+          children: [
+            '/references-js/global-settings/setGeometryQuality',
+            '/references-js/global-settings/setStepSize',
+          ]
         }
+
+        
       ],
       '/references/' : 
       [
