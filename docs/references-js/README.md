@@ -4,6 +4,8 @@ sidebar: false
 ## References JS
 Shader Park provides a set of built in functions to help you create your sculptures.
 
+
+
 ### Geometry
 #### Primitives
 [sphere](/references-js/geometries/sphere.html), [box](/references-js/geometries/box.html), [torus](/references-js/geometries/torus.html), [line](/references-js/geometries/line.html), [cylinder](/references-js/geometries/cylinder.html)
@@ -22,7 +24,7 @@ Shader Park provides a set of built in functions to help you create your sculptu
 ### Coordinate Space Modifiers 
 [displace](/references-js/operations/displace.html)
 
-setSpace
+[setSpace](/references-js/operations/setSpace.html)
 
 [mirrorX](/references-js/operations/mirrorX.html), [mirrorY](/references-js/operations/mirrorY.html), [mirrorZ](/references-js/operations/mirrorX.html), [mirrorXYZ](/references-js/operations/mirrorXYZ.html)
 
@@ -46,7 +48,7 @@ setSpace
 [occlusion](/references-js/color/occlusion.html)
 
 #### Lighting
-basicLighting, [noLighting](/references-js/color/noLighting.html), noMaterial, [lightDirection](/references-js/color/lightDirection.html) 
+[noLighting](/references-js/color/noLighting.html), [lightDirection](/references-js/color/lightDirection.html) 
 
 ------
 
@@ -55,7 +57,7 @@ basicLighting, [noLighting](/references-js/color/noLighting.html), noMaterial, [
 
 #### Space and Time
 
-getSpace, 
+[getSpace](/references-js/input/getSpace.html),
 
 getSpherical,
 
@@ -112,4 +114,15 @@ PI, TWO_PI, TAU
 
 [setGeometryQuality](/references-js/global-settings/setGeometryQuality.html), [setStepSize](/references-js/global-settings/setStepSize.html)
 
+
+### Known Issues
+```js
+// +=, -=, /=, and *= will not work
+// instead of doing
+let x = vec3(0.2);
+x += 2;
+
+//please write
+x = x + 2;
+```
 

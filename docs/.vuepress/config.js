@@ -66,6 +66,7 @@ module.exports = {
           title: 'Coordinate Space Modifiers',
           children: [
             '/references-js/operations/displace',
+            '/references-js/operations/setSpace',
             '/references-js/operations/mirrorX',
             '/references-js/operations/mirrorY',
             '/references-js/operations/mirrorZ',
@@ -102,6 +103,7 @@ module.exports = {
             {
               title: 'Space & Time',
               children: [
+                '/references-js/input/getSpace',
                 '/references-js/input/time',
                 '/references-js/input/normal'
               ]
