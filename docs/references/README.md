@@ -19,7 +19,7 @@ You can create GLSL sculptures at the following link:
 
 In bare bones enviroments like [ShaderToy](https://shadertoy.com) you need to write your own raymarching code to render Signed Distance Field (SDF) shapes. This boilerplate is provided in the Shader Park GLSL editor, although you can still implement yourself if you like. 
 
-It is a common convention to define composite SDFs in GLSL with the name "map" or "scene". 
+It is a common convention to define composite SDFs in GLSL in a function with the name "map" or "scene". 
 In the Shader Park GLSL editor, the function is named **surfaceDistance** because a SDF computes the distance from a point to a surface.
 
 SDFs are colored in the **shade** function. This is evaluated at the intersection with the surfaceDistance SDF, and the normal is computed numerically using the tetrahedron technique.  
