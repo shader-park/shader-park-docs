@@ -6,4 +6,4 @@ vec4 sphericalDistribution( vec3 p, float n );
 ```
 
 #### Example
-<iframe width="100%" height="450px" src="https://shader-park.appspot.com/sculpture/-LeUBfGOqBXNjLzb77Ec?example=true&embed=true" frameborder="0"></iframe>
+<iframe width="100%" height="450px" src="https://shaderpark.netlify.com/sculpture/-LeUBfGOqBXNjLzb77Ec?example=true&embed=true" frameborder="0"></iframe>
