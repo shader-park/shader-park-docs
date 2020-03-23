@@ -61,7 +61,7 @@ Shader Park provides a set of built in functions to help you create your sculptu
 
 getSpherical,
 
-getRayDirection,
+[getRayDirection](/references-js/input/getRayDirection.html),
 
 [time](/references-js/input/time.html),
 

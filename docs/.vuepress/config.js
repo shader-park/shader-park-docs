@@ -104,6 +104,7 @@ module.exports = {
               title: 'Space & Time',
               children: [
                 '/references-js/input/getSpace',
+                '/references-js/input/getRayDirection',
                 '/references-js/input/time',
                 '/references-js/input/normal'
               ]
