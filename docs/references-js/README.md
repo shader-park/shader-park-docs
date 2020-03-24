@@ -81,7 +81,6 @@ getSpherical,
 
 sin, cos, tan, asin, acos 
 
-
 exp, log, exp2, log2
 
 pow, sqrt, inversesqrt
@@ -115,14 +114,9 @@ PI, TWO_PI, TAU
 [setGeometryQuality](/references-js/global-settings/setGeometryQuality.html), [setStepSize](/references-js/global-settings/setStepSize.html)
 
 
-### Known Issues
-```js
-// +=, -=, /=, and *= will not work
-// instead of doing
-let x = vec3(0.2);
-x += 2;
+### Known Issues / WIP
 
-//please write
-x = x + 2;
-```
+length, distance, dot, cross, normalize, reflect, and refract work only with with vec3s
+
+pow, mod, min, max, atan, clamp, mix, and smoothstep work only with floats.
 
