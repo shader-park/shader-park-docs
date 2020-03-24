@@ -111,12 +111,26 @@ PI, TWO_PI, TAU
 
 ### Global Settings
 
-[setGeometryQuality](/references-js/global-settings/setGeometryQuality.html), [setStepSize](/references-js/global-settings/setStepSize.html)
+[setGeometryQuality](/references-js/global-settings/setGeometryQuality.html), [setStepSize](/references-js/global-settings/setStepSize.html)  
 
+  
+## FAQ
+
+If you see artifacting / distortions in your shape you will most likely need to increase the [geometry quality](/references-js/global-settings/setGeometryQuality.html).
+
+This is no built in scale function because it quickly distorts the objects. This can however be achieved using [setSpace](/references-js/operations/setSpace.html).
 
 ### Known Issues / WIP
 
 length, distance, dot, cross, normalize, reflect, and refract work only with with vec3s
 
 pow, mod, min, max, atan, clamp, mix, and smoothstep work only with floats.
+
+branching / using if statements that references built-in variables will not work. Specifically variables like vec2, vec3, vec4, or using input variables like time.
+Eg:
+```
+if(time > 100) {
+    //do something
+}
+```
 
