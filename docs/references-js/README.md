@@ -91,7 +91,7 @@ min, max, clamp, mix, smoothstep,
 
 length, distance, dot, cross, normalize, reflect, refract
 
-toSpherical, fromSpherical
+[toSpherical](/references-js/math/toSpherical.html), fromSpherical
 
 ------
 

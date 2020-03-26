@@ -123,7 +123,9 @@ module.exports = {
         {
           title: 'Math',
           collapsable: true,
-          children: []
+          children: [
+            '/references-js/math/toSpherical',
+          ]
         },
         {
           title: 'Algorithms',
