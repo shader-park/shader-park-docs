@@ -122,7 +122,7 @@ This is no built in scale function because it quickly distorts the objects. This
 
 ### Known Issues / WIP
 
-length, distance, dot, cross, normalize, reflect, and refract work only with with vec3s
+length, distance, dot, and normalize work only with with vec3s
 
 pow, mod, min, max, atan, clamp, mix, and smoothstep work only with floats.
 
