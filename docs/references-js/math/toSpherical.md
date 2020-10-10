@@ -12,7 +12,7 @@
 
 Gets the spherical coordinates form the provided space.
 
-This function is commonly used setSpace with [getSpace()](/references-js/input/getSpace.html).
+This function is commonly used with [getSpace()](/references-js/input/getSpace.html).
 
 ### Syntax
 ```js
