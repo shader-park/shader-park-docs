@@ -85,6 +85,7 @@ module.exports = {
             '/references-js/color/metal',
             '/references-js/color/shine',
             '/references-js/color/hsv2rgb',
+            '/references-js/color/rgb2hsv',
             '/references-js/color/occlusion',
             
             {

@@ -43,7 +43,8 @@ Shader Park provides a set of built in functions to help you create your sculptu
 [metal](/references-js/color/metal.html),
 [shine](/references-js/color/shine.html)
 
-[hsv2rgb](/references-js/color/hsv2rgb.html) , rgb2hsv, 
+[hsv2rgb](/references-js/color/hsv2rgb.html) , 
+[rgb2hsv](/references-js/color/rgb2hsv.html), 
 
 [occlusion](/references-js/color/occlusion.html)
 
