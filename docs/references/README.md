@@ -25,7 +25,7 @@ In the Shader Park GLSL editor, the function is named **surfaceDistance** becaus
 SDFs are colored in the **shade** function. This is evaluated at the intersection with the surfaceDistance SDF, and the normal is computed numerically using the tetrahedron technique.  
 Note: if you'd like to use a custom raymarcher, simply set your surfaceDistance to return 0.0 and implement everything from scratch inside the shade function.
 
-Our focus has been the javascript library, so the GLSL API is not fully documented or covered by simple examples. However please feel free to contribute by submitting a pull request to the [Shader Park documentation github repository](https://github.com/bnanner/shader-park-docs) with a link to the example.
+Our focus has been the javascript library, so the GLSL API is not fully documented or covered by simple examples. However please feel free to contribute by submitting a pull request to the [Shader Park documentation github repository](https://github.com/shader-park/shader-park-docs) with a link to the example.
 
 
 <!-- <iframe width="100%" height="450px" src="/examples?embed=true" frameborder="0"></iframe> -->

@@ -226,7 +226,7 @@ module.exports = {
         }
       ]
     },
-    repo: 'bnanner/Shader-Park-Docs',
+    repo: 'shader-park/shader-park-docs',
     // Customising the header label
     // Defaults to "GitHub"/"GitLab"/"Bitbucket" depending on `themeConfig.repo`
     // repoLabel: 'Edit this page!',

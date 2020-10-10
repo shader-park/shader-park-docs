@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "The official documentation site for Shader-Park.js.",
   "main": "index.js",
-  "repository": "https://github.com/bnanner/Shader-Park-Docs.git",
+  "repository": "https://github.com/shader-park/shader-park-docs.git",
   "author": "Torin Blankensmith <torin.blankensmith@gmail.com>",
   "license": "MIT",
   "private": true,
