@@ -14,7 +14,7 @@ module.exports = {
       // {text: 'About', link: '/'}, {text: 'Getting Started', link: '/tutorials/'},
       { text: 'References GLSL', link: '/references/' },
       { text: 'References JS', link: '/references-js/' },
-      {text: 'Home', link: 'https://shaderpark.netlify.com'}
+      {text: 'Home', link: 'https://shaderpark.com'}
     ],
     // sidebar: 'auto'
     sidebar: {
