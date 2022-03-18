@@ -15,7 +15,7 @@ footer: MIT Licensed | Copyright © 2018-present Torin Blankensmith & Peter Whid
 Shader Park's unique feature is a javascript library for creating 3D shaders, however sometimes you want to work directly with GLSL, which is also supported. 
 
 You can create GLSL sculptures at the following link:  
-[https://shaderpark.netlify.com/new/glsl](https://shaderpark.com/new/glsl)
+[https://shaderpark.com/new/glsl](https://shaderpark.com/new/glsl)
 
 In bare bones enviroments like [ShaderToy](https://shadertoy.com) you need to write your own raymarching code to render Signed Distance Field (SDF) shapes. This boilerplate is provided in the Shader Park GLSL editor, although you can still implement yourself if you like. 
 
