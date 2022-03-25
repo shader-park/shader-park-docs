@@ -81,7 +81,7 @@ getSpherical,
 
 ### Math
 
-sin, cos, tan, asin, acos 
+sin, cos, tan, asin, acos, nsin
 
 exp, log, exp2, log2
 
