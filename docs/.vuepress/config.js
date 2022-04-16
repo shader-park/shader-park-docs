@@ -32,6 +32,7 @@ module.exports = {
                 '/references-js/geometries/torus',
                 '/references-js/geometries/line',
                 '/references-js/geometries/cylinder',
+                '/references-js/geometries/grid',
               ]
             },
             {
