@@ -29,6 +29,7 @@ module.exports = {
               children: [
                 '/references-js/geometries/sphere',
                 '/references-js/geometries/box',
+                '/references-js/geometries/boxFrame',
                 '/references-js/geometries/torus',
                 '/references-js/geometries/line',
                 '/references-js/geometries/cylinder',

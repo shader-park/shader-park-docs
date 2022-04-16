@@ -8,7 +8,7 @@ Shader Park provides a set of built in functions to help you create your sculptu
 
 ### Geometry
 #### Primitives
-[sphere](/references-js/geometries/sphere.html), [box](/references-js/geometries/box.html), [torus](/references-js/geometries/torus.html), [line](/references-js/geometries/line.html), [cylinder](/references-js/geometries/cylinder.html), [grid](/references-js/geometries/grid.html)
+[sphere](/references-js/geometries/sphere.html), [box](/references-js/geometries/box.html), [boxFrame](/references-js/geometries/boxFrame.html), [torus](/references-js/geometries/torus.html), [line](/references-js/geometries/line.html), [cylinder](/references-js/geometries/cylinder.html), [grid](/references-js/geometries/grid.html)
 
 #### Construction Modes
 [union](/references-js/operations/union.html), [difference](/references-js/operations/difference.html), [blend](/references-js/operations/blend.html), [intersect](/references-js/operations/intersect.html), [mixGeo](/references-js/operations/mixGeo.html)
