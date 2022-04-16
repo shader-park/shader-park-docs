@@ -72,6 +72,7 @@ module.exports = {
             '/references-js/operations/mirrorY',
             '/references-js/operations/mirrorZ',
             '/references-js/operations/mirrorXYZ',
+            '/references-js/operations/mirrorN',
             '/references-js/operations/rotateX',
             '/references-js/operations/rotateY',
             '/references-js/operations/rotateZ',

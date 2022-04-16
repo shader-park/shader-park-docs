@@ -26,7 +26,7 @@ Shader Park provides a set of built in functions to help you create your sculptu
 
 [setSpace](/references-js/operations/setSpace.html)
 
-[mirrorX](/references-js/operations/mirrorX.html), [mirrorY](/references-js/operations/mirrorY.html), [mirrorZ](/references-js/operations/mirrorX.html), [mirrorXYZ](/references-js/operations/mirrorXYZ.html)
+[mirrorX](/references-js/operations/mirrorX.html), [mirrorY](/references-js/operations/mirrorY.html), [mirrorZ](/references-js/operations/mirrorX.html), [mirrorXYZ](/references-js/operations/mirrorXYZ.html), [mirrorN](/references-js/operations/mirrorN.html)
 
 [rotateX](/references-js/operations/rotateX.html), [rotateY](/references-js/operations/rotateY.html), [rotateZ](/references-js/operations/rotateZ.html)
 
