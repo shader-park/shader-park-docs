@@ -90,12 +90,12 @@ module.exports = {
             '/references-js/color/hsv2rgb',
             '/references-js/color/rgb2hsv',
             '/references-js/color/occlusion',
-            
+            '/references-js/color/fresnel',
             {
               title: 'Lighting',
               children: [
                 '/references-js/color/noLighting',
-                '/references-js/color/lightDirection'
+                '/references-js/color/lightDirection',
               ]
             }
           ]

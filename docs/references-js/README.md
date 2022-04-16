@@ -47,10 +47,11 @@ Shader Park provides a set of built in functions to help you create your sculptu
 [hsv2rgb](/references-js/color/hsv2rgb.html) , 
 [rgb2hsv](/references-js/color/rgb2hsv.html), 
 
-[occlusion](/references-js/color/occlusion.html)
+[occlusion](/references-js/color/occlusion.html),
+[fresnel](/references-js/color/fresnel.html) 
 
 #### Lighting
-[noLighting](/references-js/color/noLighting.html), [lightDirection](/references-js/color/lightDirection.html) 
+[noLighting](/references-js/color/noLighting.html), [lightDirection](/references-js/color/lightDirection.html)
 
 ------
 
