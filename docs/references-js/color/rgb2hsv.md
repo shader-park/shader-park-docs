@@ -1,4 +1,4 @@
-### rbg2hsv()
+### rgb2hsv()
 
 ### Example
 
@@ -9,11 +9,11 @@
 <iframe width="100%" height="450px" src="https://shaderpark.netlify.com/sculpture/-MJItwRqqccisWHIxdE4?example=true&embed=true" frameborder="0"></iframe>
 
 ### Description
-Converts RBG values into Hue, Saturation, Value(also called Brightness).
+Converts RGB values into Hue, Saturation, Value(also called Brightness).
 
 ### Syntax
 ```js
-rbg2hsv(inputColor);
+rgb2hsv(inputColor);
 ```
 
 ### Parameters
