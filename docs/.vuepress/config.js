@@ -59,6 +59,7 @@ module.exports = {
               title: 'Composition',
               children: [
                 '/references-js/geometries/shape',
+                '/references-js/geometries/glslFunc',
               ]
             },
             
