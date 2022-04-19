@@ -14,7 +14,7 @@ Shader Park provides a set of built in functions to help you create your sculptu
 [union](/references-js/operations/union.html), [difference](/references-js/operations/difference.html), [blend](/references-js/operations/blend.html), [intersect](/references-js/operations/intersect.html), [mixGeo](/references-js/operations/mixGeo.html)
 
 #### Modifiers
-[expand](/references-js/operations/expand.html), [shell](/references-js/operations/shell.html), [setSDF](/references-js/operations/setSDF.html)
+[expand](/references-js/operations/expand.html), [shell](/references-js/operations/shell.html), [setSDF](/references-js/operations/setSDF.html), [glslSDF](/references-js/operations/glslSDF.html)
 
 ### Composition
 [shape](/references-js/geometries/shape.html)

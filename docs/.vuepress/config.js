@@ -52,6 +52,7 @@ module.exports = {
                 '/references-js/operations/shell',
                 '/references-js/operations/expand',
                 '/references-js/operations/setSDF',
+                '/references-js/operations/glslSDF',
               ]
             },
             {
