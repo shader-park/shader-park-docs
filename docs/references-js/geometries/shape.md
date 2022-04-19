@@ -35,5 +35,5 @@ shape(shape_func);
 
 
 ### Returns
-Function: An encapsuled version of shape_func which will not modify any drawing state outside of its own scope.  
-Note: Any arguements given to this function will be forwarded as arguments to shape_func.
+Function: An encapsulated version of shape_func which will not modify any drawing state outside of its own scope.  
+Note: Any arguments given to this function will be forwarded as arguments to shape_func.
