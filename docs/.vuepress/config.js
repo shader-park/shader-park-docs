@@ -34,6 +34,7 @@ module.exports = {
                 '/references-js/geometries/line',
                 '/references-js/geometries/cylinder',
                 '/references-js/geometries/grid',
+                '/references-js/geometries/glslSDF',
               ]
             },
             {
@@ -52,7 +53,6 @@ module.exports = {
                 '/references-js/operations/shell',
                 '/references-js/operations/expand',
                 '/references-js/operations/setSDF',
-                '/references-js/operations/glslSDF',
               ]
             },
             {
