@@ -14,7 +14,8 @@ module.exports = {
       // {text: 'About', link: '/'}, {text: 'Getting Started', link: '/tutorials/'},
       { text: 'References GLSL', link: '/references/' },
       { text: 'References JS', link: '/references-js/' },
-      {text: 'Home', link: 'https://shaderpark.com'}
+      {text: 'Home', link: 'https://shaderpark.com'},
+      {text: 'Tutorials', link: 'https://youtube.com/playlist?list=PLgfxkm9xFocbc6wiO3A8vXalP4K57yUKo'}
     ],
     // sidebar: 'auto'
     sidebar: {
