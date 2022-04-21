@@ -5,13 +5,15 @@
 <iframe width="100%" height="450px" src="https://shaderpark.netlify.com/sculpture/-N-zzJMPuGNRgk7wJzcN?example=true&embed=true" frameborder="0"></iframe>
 
 ---
-
+::: details Example 2 (click to open)
 <iframe width="100%" height="450px" src="https://shaderpark.netlify.com/sculpture/-N-zyfdiGNS3Y3TwfVy8?example=true&embed=true" frameborder="0"></iframe>
+:::
 
 ---
 
+::: details Example 3 
 <iframe width="100%" height="450px" src="https://shaderpark.netlify.com/sculpture/-N-nbKAm-LUNKWjQvbVz?example=true&embed=true" frameborder="0"></iframe>
-
+:::
 
 
 ### Description

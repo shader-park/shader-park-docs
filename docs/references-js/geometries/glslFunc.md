@@ -6,16 +6,16 @@
 
 ---
 
-::: details Example 2 custom color + shape extrusion using glslFunc
-<iframe width="100%" height="450px" src="https://shaderpark.netlify.com/sculpture/-N0-B9D9xykyqnsT6QSJ?embed=true" frameborder="0"></iframe>
+::: details Example 2 Custom Color + Shape Extrusion (click to open)
+<iframe width="100%" height="450px" src="https://shaderpark.netlify.com/sculpture/-N08hC7qDfxdQX9K91XY?embed=true&example=true" frameborder="0"></iframe>
 :::
 
 ---
 
-
-::: details Example 3 custom raymarcher using glslFunc
-<iframe width="100%" height="450px" src="https://shaderpark.netlify.com/sculpture/-N04Gj9ovvd1hPeA4isw?embed=true" frameborder="0"></iframe>
+::: details Example 3 Custom Raymarcher
+<iframe width="100%" height="450px" src="https://shaderpark.netlify.com/sculpture/-N08gr2FStcIFmTFOyKL?embed=true&example=true" frameborder="0"></iframe>
 :::
+
 
 
 ### Description
