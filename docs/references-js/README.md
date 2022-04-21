@@ -1,8 +1,12 @@
 ---
 sidebar: false
 ---
-## References JS
+
+
+
+## References JS: [Getting Started Tutorials](https://youtube.com/playlist?list=PLgfxkm9xFocbc6wiO3A8vXalP4K57yUKo)
 Shader Park provides a set of built in functions to help you create your sculptures.
+
 
 
 
