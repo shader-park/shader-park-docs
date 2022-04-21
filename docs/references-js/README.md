@@ -12,7 +12,7 @@ Shader Park provides a set of built in functions to help you create your sculptu
 
 ### Geometry
 #### Primitives
-[sphere](/references-js/geometries/sphere.html), [box](/references-js/geometries/box.html), [boxFrame](/references-js/geometries/boxFrame.html), [torus](/references-js/geometries/torus.html), [line](/references-js/geometries/line.html), [cylinder](/references-js/geometries/cylinder.html), [grid](/references-js/geometries/grid.html), [glslSDF](/references-js/geometries/glslSDF.html)
+[sphere](/references-js/geometries/sphere.html), [box](/references-js/geometries/box.html), [boxFrame](/references-js/geometries/boxFrame.html), [torus](/references-js/geometries/torus.html), [line](/references-js/geometries/line.html), [cylinder](/references-js/geometries/cylinder.html), [grid](/references-js/geometries/grid.html)
 
 #### Construction Modes
 [union](/references-js/operations/union.html), [difference](/references-js/operations/difference.html), [blend](/references-js/operations/blend.html), [intersect](/references-js/operations/intersect.html), [mixGeo](/references-js/operations/mixGeo.html)
@@ -21,7 +21,7 @@ Shader Park provides a set of built in functions to help you create your sculptu
 [expand](/references-js/operations/expand.html), [shell](/references-js/operations/shell.html), [setSDF](/references-js/operations/setSDF.html)
 
 ### Composition
-[shape](/references-js/geometries/shape.html), [glslFunc](/references-js/geometries/glslFunc.html)
+[shape](/references-js/geometries/shape.html)
 
 ------
 
@@ -84,6 +84,12 @@ getSpherical,
 
 ------
 
+### GLSL
+[glslFunc](/references-js/geometries/glslFunc.html),
+[glslSDF](/references-js/geometries/glslSDF.html)
+
+------
+
 ### Math
 
 sin, cos, tan, asin, acos, nsin
@@ -118,7 +124,7 @@ PI, TWO_PI, TAU
 
 ### Global Settings
 
-[setGeometryQuality](/references-js/global-settings/setGeometryQuality.html), [setStepSize](/references-js/global-settings/setStepSize.html)  
+[setGeometryQuality](/references-js/global-settings/setGeometryQuality.html), [setStepSize](/references-js/global-settings/setStepSize.html), [setMaxIterations](/references-js/global-settings/setMaxIterations.html)  
 
   
 ## FAQ

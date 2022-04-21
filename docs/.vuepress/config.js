@@ -35,7 +35,6 @@ module.exports = {
                 '/references-js/geometries/line',
                 '/references-js/geometries/cylinder',
                 '/references-js/geometries/grid',
-                '/references-js/geometries/glslSDF',
               ]
             },
             {
@@ -56,16 +55,25 @@ module.exports = {
                 '/references-js/operations/setSDF',
               ]
             },
-            {
-              title: 'Composition',
-              children: [
-                '/references-js/geometries/shape',
-                '/references-js/geometries/glslFunc',
-              ]
-            },
+
             
           ]
         },
+        {
+          collapsable: true,
+          title: 'GLSL',
+          children: [
+            '/references-js/geometries/glslFunc',
+            '/references-js/geometries/glslSDF',
+          ]
+        },         
+        {
+          collapsable: true,
+          title: 'Composition',
+          children: [
+            '/references-js/geometries/shape',
+          ]
+        },        
         {
           collapsable: true,
           title: 'Coordinate Space Modifiers',
@@ -155,6 +163,7 @@ module.exports = {
           children: [
             '/references-js/global-settings/setGeometryQuality',
             '/references-js/global-settings/setStepSize',
+            '/references-js/global-settings/setMaxIterations',
           ]
         }
 
