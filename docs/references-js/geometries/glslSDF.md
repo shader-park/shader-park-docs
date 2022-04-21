@@ -29,3 +29,6 @@ glslSDF(glslCode);
 
 ### Parameters
 **glslCode** String: The glsl source code.
+
+### Returns
+Function: A js function of the glslCode. Any arguments given to this function will be forwarded as arguments to the provided glsl function.
