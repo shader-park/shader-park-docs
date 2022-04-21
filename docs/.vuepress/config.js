@@ -63,8 +63,9 @@ module.exports = {
           collapsable: true,
           title: 'GLSL',
           children: [
-            '/references-js/geometries/glslFunc',
-            '/references-js/geometries/glslSDF',
+            '/references-js/glsl/glslFunc',
+            '/references-js/glsl/glslFuncES3',
+            '/references-js/glsl/glslSDF',
           ]
         },         
         {

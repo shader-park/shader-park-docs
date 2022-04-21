@@ -85,8 +85,9 @@ getSpherical,
 ------
 
 ### GLSL
-[glslFunc](/references-js/geometries/glslFunc.html),
-[glslSDF](/references-js/geometries/glslSDF.html)
+[glslFunc](/references-js/glsl/glslFunc.html),
+[glslFuncES3](/references-js/glsl/glslFuncES3.html),
+[glslSDF](/references-js/glsl/glslSDF.html)
 
 ------
 
