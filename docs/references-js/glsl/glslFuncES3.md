@@ -19,7 +19,7 @@
 
 
 ### Description
-Creates a javascript function from a GLSL function. This enables the ability to use if statements(branching),work with integers and even create your own raymarcher. Note this will work with GL ES3, but does not have as nice of error handeling as [glslFunc](/references-js/glsl/glslFunc.html)
+Creates a javascript function from a GLSL function. This enables the ability to use if statements(branching), work with integers and even create your own raymarcher. Note this will work with GL ES3, but does not have as nice of error handeling as [glslFunc](/references-js/glsl/glslFunc.html)
 
 ### Syntax
 ```js
