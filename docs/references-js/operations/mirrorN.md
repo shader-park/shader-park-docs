@@ -14,4 +14,5 @@ mirrorN(count, spacing);
 
 ### Parameters
 **count** Number: the number of times to mirror the space. Ranges from 0 to any number
+
 **spacing** Float: how much spacing to put between each mirror.
