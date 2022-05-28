@@ -16,7 +16,9 @@ lightDirection(position);
 
 ### Parameters
 **x** Float: value from 0.0 to 1.0. Defaults to 0
+
 **y** Float: value from 0.0 to 1.0. Defaults to 1
+
 **z** Float: value from 0.0 to 1.0. Defaults to 0
 
 **position** Vec3: defaults to vec3(0, 1, 0).
