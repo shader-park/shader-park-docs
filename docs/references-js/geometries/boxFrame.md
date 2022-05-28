@@ -13,4 +13,5 @@ boxFrame(size, thickness);
 
 ### Parameters
 **size** Vector3: size of the boxframe
+
 **thickness** Float: thickness of the frame

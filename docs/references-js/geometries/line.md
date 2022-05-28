@@ -14,5 +14,7 @@ line(startPosition, endPosition, thickness);
 
 ### Parameters
 **startPosition** Vec3: x, y, and z starting position of the line
+
 **endPosition** Vec3: x, y, and z ending position of the line
+
 **thickness** Float: thickness of the line

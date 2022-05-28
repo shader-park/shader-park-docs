@@ -12,5 +12,7 @@ grid(count, scale, thickness);
 
 ### Parameters
 **count** Number: number of grid sections. ranges from 0 to any number
+
 **scale** Float: size of the grid sections
+
 **thickness** Float: thickness of the grid sections
