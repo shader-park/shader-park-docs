@@ -140,7 +140,7 @@ length, distance, dot, and normalize work only with with vec3s
 
 pow, mod, min, max, atan, clamp, mix, and smoothstep work only with floats.
 
-branching / using if statements that references built-in variables will not work. Specifically variables like vec2, vec3, vec4, or using input variables like time.
+branching / using if statements that reference built-in variables will not work. Specifically variables like vec2, vec3, vec4, or using input variables like time.
 Eg:
 ```
 if(time > 100) {
