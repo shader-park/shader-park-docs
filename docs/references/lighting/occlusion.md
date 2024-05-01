@@ -7,4 +7,4 @@ float occlusion(vec3 p, vec3 normal);
 ```
 
 #### Example
-<iframe width="100%" height="450px" src="https://shaderpark.netlify.com/sculpture/-LeKW5uvfCa7bJea6XVt?example=true&embed=true" frameborder="0"></iframe>
+<iframe width="100%" height="450px" src="https://shaderpark.com/sculpture/-LeKW5uvfCa7bJea6XVt?example=true&embed=true" frameborder="0"></iframe>

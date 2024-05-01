@@ -2,11 +2,11 @@
 
 ### Example
 
-<iframe width="100%" height="450px" src="https://shaderpark.netlify.com/sculpture/-M2BljrhSv4vBfyvzZiP?example=true&embed=true" frameborder="0"></iframe>
+<iframe width="100%" height="450px" src="https://shaderpark.com/sculpture/-M2BljrhSv4vBfyvzZiP?example=true&embed=true" frameborder="0"></iframe>
 
 ---
 
-<iframe width="100%" height="450px" src="https://shaderpark.netlify.com/sculpture/-M2BkuOHDHy1VwWBhesz?example=true&embed=true" frameborder="0"></iframe>
+<iframe width="100%" height="450px" src="https://shaderpark.com/sculpture/-M2BkuOHDHy1VwWBhesz?example=true&embed=true" frameborder="0"></iframe>
 
 ### Description
 Computes the distance to the nearest of N points distributed over a sphere. 

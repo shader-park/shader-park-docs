@@ -2,18 +2,18 @@
 
 ### Example
 <!-- 
-<iframe width="100%" height="450px" src="https://shaderpark.netlify.com/sculpture/-N01zT0sQ9alzTaxVDgG?example=true&embed=true" frameborder="0"></iframe>
+<iframe width="100%" height="450px" src="https://shaderpark.com/sculpture/-N01zT0sQ9alzTaxVDgG?example=true&embed=true" frameborder="0"></iframe>
 
 ---
 
 ::: details Example 2 Custom Color + Shape Extrusion (click to open)
-<iframe width="100%" height="450px" src="https://shaderpark.netlify.com/sculpture/-N08hC7qDfxdQX9K91XY?embed=true&example=true" frameborder="0"></iframe>
+<iframe width="100%" height="450px" src="https://shaderpark.com/sculpture/-N08hC7qDfxdQX9K91XY?embed=true&example=true" frameborder="0"></iframe>
 :::
 
 ---
 
 ::: details Example 3 Custom Raymarcher
-<iframe width="100%" height="450px" src="https://shaderpark.netlify.com/sculpture/-N08gr2FStcIFmTFOyKL?embed=true&example=true" frameborder="0"></iframe>
+<iframe width="100%" height="450px" src="https://shaderpark.com/sculpture/-N08gr2FStcIFmTFOyKL?embed=true&example=true" frameborder="0"></iframe>
 ::: -->
 
 

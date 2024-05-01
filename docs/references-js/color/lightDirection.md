@@ -2,7 +2,7 @@
 
 ### Example
 
-<iframe width="100%" height="450px" src="https://shaderpark.netlify.com/sculpture/-M2aPfxOPt9evUT9w3va?example=true&embed=true" frameborder="0"></iframe>
+<iframe width="100%" height="450px" src="https://shaderpark.com/sculpture/-M2aPfxOPt9evUT9w3va?example=true&embed=true" frameborder="0"></iframe>
 
 ### Description
 Sets the direction of the built-in lighting. By default the light points from the top down as lightDirection(0, 1, 0).

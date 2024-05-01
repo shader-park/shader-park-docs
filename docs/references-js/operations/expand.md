@@ -2,7 +2,7 @@
 
 ### Example
 
-<iframe width="100%" height="450px" src="https://shaderpark.netlify.com/sculpture/-LjhIc973ykxiNAoUoFR?example=true&embed=true" frameborder="0"></iframe>
+<iframe width="100%" height="450px" src="https://shaderpark.com/sculpture/-LjhIc973ykxiNAoUoFR?example=true&embed=true" frameborder="0"></iframe>
 
 ### Description
 Expand a geometry by the provided amount.

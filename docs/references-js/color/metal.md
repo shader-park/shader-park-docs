@@ -2,7 +2,7 @@
 
 ### Example
 
-<iframe width="100%" height="450px" src="https://shaderpark.netlify.com/sculpture/-M2aG1sUC5Sa3JiNDJX_?example=true&embed=true" frameborder="0"></iframe>
+<iframe width="100%" height="450px" src="https://shaderpark.com/sculpture/-M2aG1sUC5Sa3JiNDJX_?example=true&embed=true" frameborder="0"></iframe>
 
 ### Description
 Defines how metallic the shape should be.

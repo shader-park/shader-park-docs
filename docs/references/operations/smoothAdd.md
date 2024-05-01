@@ -7,4 +7,4 @@ float smoothAdd(float obj1, float obj2, float amount);
 ```
 
 #### Example
-<iframe width="100%" height="450px" src="https://shaderpark.netlify.com/sculpture/-LMjM7k1N6SLJKFu_7UR?example=true&embed=true" frameborder="0"></iframe>
+<iframe width="100%" height="450px" src="https://shaderpark.com/sculpture/-LMjM7k1N6SLJKFu_7UR?example=true&embed=true" frameborder="0"></iframe>

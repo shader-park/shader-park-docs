@@ -2,7 +2,7 @@
 
 ### Example
 
-<iframe width="100%" height="450px" src="https://shaderpark.netlify.com/sculpture/-LjgpxEPI9PfX_gmVr2e?example=true&embed=true" frameborder="0"></iframe>
+<iframe width="100%" height="450px" src="https://shaderpark.com/sculpture/-LjgpxEPI9PfX_gmVr2e?example=true&embed=true" frameborder="0"></iframe>
 
 ### Description
 Blend between two geometries by the provided amount.

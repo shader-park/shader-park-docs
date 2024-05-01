@@ -2,11 +2,11 @@
 
 ### Example
 
-<iframe width="100%" height="450px" src="https://shaderpark.netlify.com/sculpture/-M39w1WeA2YsxG-6AmpM?example=true&embed=true" frameborder="0"></iframe>
+<iframe width="100%" height="450px" src="https://shaderpark.com/sculpture/-M39w1WeA2YsxG-6AmpM?example=true&embed=true" frameborder="0"></iframe>
 
 ----
 
-<iframe width="100%" height="450px" src="https://shaderpark.netlify.com/sculpture/-M39yrcRGA9MCfkZZDfR?example=true&embed=true" frameborder="0"></iframe>
+<iframe width="100%" height="450px" src="https://shaderpark.com/sculpture/-M39yrcRGA9MCfkZZDfR?example=true&embed=true" frameborder="0"></iframe>
 
 ### Description
 

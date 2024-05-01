@@ -2,7 +2,7 @@
 
 ### Example
 
-<iframe width="100%" height="450px" src="https://shaderpark.netlify.com/sculpture/-M2aLAwW3kNmCwPE-b3x?example=true&embed=true" frameborder="0"></iframe>
+<iframe width="100%" height="450px" src="https://shaderpark.com/sculpture/-M2aLAwW3kNmCwPE-b3x?example=true&embed=true" frameborder="0"></iframe>
 
 ### Description
 Defines how shiny the shape should be.
